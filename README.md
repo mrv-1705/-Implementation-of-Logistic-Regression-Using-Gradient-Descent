@@ -9,7 +9,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 
-1. Import the necessary python packages
+1.Import the necessary python packages
    
 2.Read the dataset.
 
